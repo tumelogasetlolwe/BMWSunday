@@ -2,11 +2,11 @@ package org.example;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        System.out.println("Kunjani.,.,.,.");
     }
 
 
-    public void Tumelo(){
+    public void Nosisi(){
 
 
     }
@@ -15,7 +15,7 @@ public class Main {
 
 
 
-public void TeeBabe(){
+public void Namhla(){
 
 
 }
